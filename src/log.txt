@@ -1,0 +1,77 @@
+Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.Insufficient memory for this operation.EDBClientInsufficient memory for this operation.EDBClientInsufficient memory for this operation.EDBClientInsufficient memory for this operation.EDBClientInsufficient memory for this operation.EEnviarErrorErro ao enviar os arquivos!
+EEnviarErrorErro ao enviar os arquivos!
+EEnviarErrorErro ao enviar os arquivos!
+EEnviarErrorErro ao enviar os arquivos!0
+EEnviarErrorErro ao enviar os arquivos!101
+EEnviarErrorErro ao enviar os arquivos!101
+EAccessViolationAccess violation at address 006CC9C9 in module 'Foo.exe'. Read of address 00000000
+EEnviarErrorErro ao enviar os arquivos!
+EEnviarErrorErro ao enviar os arquivos!
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+EEnviarErrorErro ao enviar os arquivos!101
+EAccessViolationAccess violation at address 00000000 in module 'Foo.exe'. Read of address 00000000
+EDBClientInsufficient memory for this operation.
+EConvertError'TEdit' is not a valid integer value
+EConvertError'TEdit' is not a valid integer value
+EConvertError'EDNumeroThreads' is not a valid integer value
+EAccessViolationAccess violation at address 006C9F09 in module 'Foo.exe'. Read of address 00000038
+EAccessViolationAccess violation at address 006C9F19 in module 'Foo.exe'. Read of address 00000038
+EStackOverflowStack overflow
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDBClientInsufficient memory for this operation.
+EDatabaseErrorCannot perform this operation on a closed dataset
+EDatabaseErrorCannot perform this operation on a closed dataset
+ESalvarArquivosErrorErro ao salvar os arquivos!Cannot perform this operation on a closed dataset
+ESalvarArquivosErrorErro ao salvar os arquivos!Cannot perform this operation on a closed dataset
+ESalvarArquivosErrorErro ao salvar os arquivos!Cannot perform this operation on a closed dataset
+ESalvarArquivosErrorErro ao enviar os arquivos!Erro ao salvar os arquivos!Cannot perform this operation on a closed dataset
+EAccessViolationAccess violation at address 00409DDC in module 'Foo.exe'. Read of address 00000000
+ExceptionErro ao enviar os arquivos!Erro ao salvar os arquivos!Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+EAccessViolationAccess violation at address 0060B767 in module 'Foo.exe'. Read of address 00000010
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset
+EAccessViolationAccess violation at address 0060C447 in module 'Foo.exe'. Read of address 00000010
+ExceptionErro ao enviar os arquivos!
+Erro ao salvar os arquivos!
+Cannot perform this operation on a closed dataset

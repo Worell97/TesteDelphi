@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/10/29 21:14:20.000.932,=D:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2020/10/29 21:24:02.000.080,=D:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2020/10/29 21:27:00.000.174,D:\Projetos\appmanutencao-master\src\TCustomException.pas=D:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2020/10/29 21:27:14.000.481,D:\Projetos\appmanutencao-master\src\CustomException.pas=D:\Projetos\appmanutencao-master\src\TCustomException.pas</Transaction>
+    <Transaction>2020/10/29 21:47:19.000.997,D:\Projetos\appmanutencao-master\src\CustomException.pas=</Transaction>
+    <Transaction>2020/10/29 21:48:13.000.560,=D:\Projetos\appmanutencao-master\src\CustomException.pas</Transaction>
+    <Transaction>2020/10/29 22:33:40.000.127,D:\Projetos\appmanutencao-master\src\CustomException.pas=</Transaction>
+    <Transaction>2020/10/31 19:48:15.000.553,=D:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 19:48:37.000.746,D:\Projetos\appmanutencao-master\src\Threads.pas=D:\Projetos\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2020/10/31 19:48:37.000.746,D:\Projetos\appmanutencao-master\src\Threads.dfm=D:\Projetos\appmanutencao-master\src\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
